@@ -1,0 +1,9 @@
+DECLARE
+  a NUMBER;
+  PROCEDURE proc1(p1 NUMBER) IS
+    BEGIN
+      NULL;
+    END;
+BEGIN
+  proc1(4);
+END;
